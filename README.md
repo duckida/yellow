@@ -5,9 +5,9 @@ Write code in simple pseudo-style language and get it converted to Python! Power
 
 Ex. roll a dice, say the word dice, print the number rolled.
 Interpreter: 
-python```
+```
 import random
 num = randint(1, 6)
 print("dice")
 print(num)
-```
+```python
