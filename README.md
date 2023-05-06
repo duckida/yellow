@@ -7,9 +7,11 @@ Ex.
 
 Yellow:
 
-```roll a dice
+```
+roll a dice
 say the word dice 
-print the number rolled```
+print the number rolled
+```
 
 Interpreter: 
 
@@ -19,6 +21,9 @@ num = randint(1, 6)
 print("dice")
 print(num)
 ```
-To run the yellow interpreter, you can either run the file without an argument (opening a prompt that converts Yellow to Python), or run 'interpreter.py [filename].yellow' , which will convert to Python and run the code, giving you the output.
+To run the yellow interpreter, you can either run the file (`interpreter.py`) without an argument (opening a prompt that converts Yellow to Python), or run `interpreter.py [filename].yellow` , which will convert to Python and run the code, giving you the output.
 
-PLEASE NOTE: YELLOW CODE IS COMPILED USING AI AND CODE MAY MALFUNCTION. ANY DAMAGE IS NOT THE FAULT OF YELLOW OR OPENAI.
+Yellow requires an internet connection.
+
+
+> PLEASE NOTE: YELLOW CODE IS COMPILED USING AI AND CODE MAY MALFUNCTION. ANY DAMAGE IS NOT THE FAULT OF YELLOW OR OPENAI.
