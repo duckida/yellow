@@ -1,9 +1,15 @@
-# yellow
-A simple programming language without syntax.
+# Yellow
+## A simple programming language without syntax.
 
-Write code in simple pseudo-style language and get it converted to Python! Powered by GPT-3.
+Write code in simple pseudo-style language and get it converted to Python! Powered by **OpenAI**.
 
-Ex. roll a dice, say the word dice, print the number rolled.
+Ex. 
+
+Yellow:
+
+```roll a dice
+say the word dice 
+print the number rolled```
 
 Interpreter: 
 
@@ -13,3 +19,6 @@ num = randint(1, 6)
 print("dice")
 print(num)
 ```
+To run the yellow interpreter, you can either run the file without an argument (opening a prompt that converts Yellow to Python), or run 'interpreter.py [filename].yellow' , which will convert to Python and run the code, giving you the output.
+
+PLEASE NOTE: YELLOW CODE IS COMPILED USING AI AND CODE MAY MALFUNCTION. ANY DAMAGE IS NOT THE FAULT OF YELLOW OR OPENAI.
